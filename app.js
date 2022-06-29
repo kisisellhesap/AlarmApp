@@ -106,7 +106,7 @@ setTimeout(() => {
                 cancelBtn.classList.add("passive");
 
 
-                alarmInfo.innerHTML="<h2> We Are Already Now  </h2>";
+                alarmInfo.innerHTML="<h2> Sorry , The time is pass </h2>";
                 alarm.classList.add("active");
                 alarm.classList.remove("passive");
                 alarm.value="";
